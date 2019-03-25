@@ -1,0 +1,4 @@
+.DS_Store
+
+ofxToioExample/bin/*
+!ofxToioExample/bin/data/
