@@ -1,6 +1,6 @@
-#ofxToioManager
+# ofxToioManager
 #### An openFrameworks addon for managing Toio
-[](./img/toio_ogp.jpg)
+![toio logo](./img/toio_ogp.jpg)
 
 ### Dependencies
 - ofxOSC
