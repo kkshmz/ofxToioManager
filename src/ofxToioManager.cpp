@@ -2,7 +2,7 @@
 //  ofxToioManager.cpp
 //  colorTracker
 //
-//  Created by Kento Morita on 2017/12/12.
+//  Created by @kentoids and @kkshmz on 2017/12/12.
 //
 
 #include "ofxToioManager.hpp"
